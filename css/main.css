@@ -92,7 +92,7 @@ header nav a:hover {
 }
 /*Footer*/
 footer{
-	background: #7c86dd;
+	background:#032a85;
 	width:100%; /* Establecemos que el header abarque el 100% del documento */
 	overflow:hidden; /* Eliminamos errores de float */
 	border-top: 3px solid black;
@@ -102,6 +102,8 @@ footer{
     text-align: center;
 }
 footer p{
+	margin-top: 10px;
 	text-align: center;
 	font-weight: bold;
+	color:white;
 }
