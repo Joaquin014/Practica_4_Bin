@@ -66,4 +66,42 @@ header nav a:hover {
 }
 /*Body*/
 
+#body{
+	width: 100% 100%;
+	margin-left: 40px;
+}
+#articulo1 h1{
+	text-align: center;
+	margin-top: 10px;
+}
+#tabla th{
+	height: 50px;
+}
+#tabla tr td img{
+	width: 80%;
+	float: none;
+	margin-left: 40px;
+}
+#tabla tr td h3{
+	text-align: center;
+}
+#tabla tr td p{
+	text-align: justify;
+	margin-left: 25px;
+	margin-right: 25px
+}
 /*Footer*/
+footer{
+	background: #7c86dd;
+	width:100%; /* Establecemos que el header abarque el 100% del documento */
+	overflow:hidden; /* Eliminamos errores de float */
+	border-top: 3px solid black;
+    position: absolute;
+    bottom: 0;
+    display: block;
+    text-align: center;
+}
+footer p{
+	text-align: center;
+	font-weight: bold;
+}
