@@ -1,0 +1,27 @@
+#articulo1{
+    margin-right: 80px;
+    margin-right: 20px;
+    margin-top: 10px;
+    border: 1px solid black;
+    width: 125%;
+}
+#articulo1 h1{
+    text-align: center;
+    font-weight: bold;
+}
+#articulo1 table{
+    width: 100%;
+}
+#articulo1 h3{
+    margin-left: 20px;
+}
+#articulo1 table p{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#articulo1 table img{
+    width: 100%;
+    float: none;
+
+}
