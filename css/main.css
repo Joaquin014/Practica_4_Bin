@@ -71,6 +71,13 @@ header nav a:hover {
 	margin-left: 40px;
 	max-width:1000px;
 }
+#articulo1{
+    margin-right: 80px;
+    margin-right: 20px;
+    margin-top: 10px;
+    border: 1px solid black;
+    width: 125%;
+}
 #articulo1 h1{
 	text-align: center;
 	margin-top: 10px;
